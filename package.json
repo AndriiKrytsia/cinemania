@@ -1,11 +1,11 @@
 {
-  "name": "error-404_team_name_not_found",
+  "name": "cinemania",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /error-404_team_name_not_found/"
+    "build": "parcel build src/*.html --public-url /cinemania/"
   },
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
